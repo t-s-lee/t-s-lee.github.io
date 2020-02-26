@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin J. Shields"
+title                    : "Benjamin J. Shields, Ph.D."
 title_separator          : "-"
 name                     : &name "Ben Shields"
 description              : &description "Research Scientist"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben"
+  name             : "Ben Shields"
   avatar           : "portfolio.jpg"
   bio              : "Research Scientist"
   location         : "Princeton, NJ"
