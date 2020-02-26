@@ -11,21 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Applied Mathematics, with highest honors, University of North Carolina Asheville, 2014
+* B.S. in Chemistry, with highest honors, University of North Carolina Asheville, 2014
+* M.A. in Chemistry, with distinction, Princeton University, 2016
+* Ph.D. in Chemistry, Princeton University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
