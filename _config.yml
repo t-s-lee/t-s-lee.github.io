@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Benjamin Shields"
 title_separator          : "-"
-name                     : &name "Benjamin J. Shields, Ph.D."
+name                     : &name "Ben"
 description              : &description "Research Scientist"
 url                      : https://b-shields.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Shields"
+  name             : "Benjamin J. Shields, Ph.D."
   avatar           : "portfolio.jpg"
   bio              : "Research Scientist"
   location         : "Princeton, NJ"
