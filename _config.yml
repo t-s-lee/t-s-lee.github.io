@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Benjamin J. Shields"
 title_separator          : "-"
-name                     : &name "Ben"
-description              : &description "..."
+name                     : &name "Ben Shields"
+description              : &description "Research Scientist"
 url                      : https://b-shields.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "b-shields/b-shields.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ben"
   avatar           : "portfolio.jpg"
-  bio              : "..."
+  bio              : "Research Scientist"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
