@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ben Shields"
 title_separator          : "-"
 name                     : &name "Benjamin Shields"
 description              : &description "Research Scientist"
