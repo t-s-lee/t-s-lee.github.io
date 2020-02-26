@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,10 @@ redirect_from:
 
 Here is my bio....
 
-A Subtitle
+Interests
 ======
-Some topic....
+Some stuff....
 
-Another topic....
+Research
+======
+Some other stuff....
