@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "b-shields"
+title                    : "Benjamin J. Shields"
 title_separator          : "-"
-name                     : &name "Benjamin J. Shields"
+name                     : &name "Ben"
 description              : &description "..."
 url                      : https://b-shields.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin J. Shields"
-  avatar           : "profile.png"
+  name             : "Ben"
+  avatar           : "portfolio.jpg"
   bio              : "..."
-  location         : "..."
+  location         : "Princeton, NJ"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
