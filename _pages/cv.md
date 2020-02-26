@@ -14,7 +14,7 @@ Education
 * B.A. in Applied Mathematics, with highest honors, University of North Carolina Asheville, 2014
 * B.S. in Chemistry, with highest honors, University of North Carolina Asheville, 2014
 * M.A. in Chemistry, with distinction, Princeton University, 2016
-* Ph.D. in Chemistry, Princeton University, 2018
+* Ph.D. in Chemistry, Princeton University, 2019
 
 Work experience
 ======
