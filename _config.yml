@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin J. Shields, Ph.D."
+title                    : "Benjamin Shields"
 title_separator          : "-"
-name                     : &name "Ben Shields"
+name                     : &name "Benjamin J. Shields, Ph.D."
 description              : &description "Research Scientist"
 url                      : https://b-shields.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
