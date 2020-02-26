@@ -12,6 +12,10 @@ I was born and raised in Asheville, North Carolina. In 2014, I graduated from th
 
 After my undergraduate studies, I was accepted to the chemistry graduate program at Princeton University and ultimately joined the research group of Abigail G. Doyle. As a member of the Doyle lab, I received training in synthetic methods development and catalysis. 
 
+...phd
+
+...postdoc
+
 Research Interests
 ======
 ### Machine Learning for Chemical Synthesis
