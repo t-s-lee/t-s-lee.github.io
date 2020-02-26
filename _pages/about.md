@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Here is my bio....
+I was born and raised in Asheville, North Carolina. In 2014, I graduated from the University of North Carolina Asheville with degrees in chemistry and applied mathematics. As an undergraduate, I conducted research in the group of Dr. Herman Holt, where I first got a taste for synthetic organic chemistry preparing heterocyclic analogues of microtubule interfering agents.
 
-Interests
-======
-Some stuff....
+After my undergraduate studies, I was accepted to the chemistry graduate program at Princeton University and ultimately joined the research group of Abigail G. Doyle. As a member of the Doyle lab, I received training in synthetic methods development and catalysis. 
 
-Research
+Research & Interests
 ======
-Some other stuff....
+### Machine Learning for Chemical Synthesis
+...
+
+### Organometallic Photophysics & Spectroscopy
+...
+
+### Synthetic Photochemistry & Methods Development
+Building from work in the Doyle lab, I initiated new collaborative research programs in photochemical C(sp)3–H functionalization.
+
+...
