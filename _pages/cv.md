@@ -16,26 +16,13 @@ Education
 * M.A. in Chemistry, with distinction, Princeton University, 2016
 * Ph.D. in Chemistry, Princeton University, 2019
 
-Work experience
-======
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Select Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -43,10 +30,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Princeton University
+* Chemistry 304: Organic Chemistry (2016)
+* Chemistry 201: General Chemistry (2015)
+
+University of North Carolina Asheville						
+* Chemistry department tutor: general, organic, inorganic, physical	(2012-2014)
+* Chemistry 222: Organic Chemistry Laboratory TA	(2012-2013)
+* Chemistry 111: General Chemistry Laboratory TA (2012)
