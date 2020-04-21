@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Benjamin J. Shields CV PDF](http://b-shields.github.io/files/Benjamin_Shields_CV_2020.pdf)
+
 Education
 ======
 * B.A. in Applied Mathematics, with highest honors, University of North Carolina Asheville, 2014
