@@ -12,7 +12,7 @@ I am a scientist with a background in synthetic chemistry, photophysics, quantum
 
 Whether in the lab or on my computer I love breaking down challenging problems, developing useful applications of new technology, and understanding the underlying mechanisms driving complex systems. 
 
-Research Interests
+Areas of Expertise
 ======
 ### Machine Learning for Chemical Synthesis
 My research in this area seeks to realize hybrid chemical-ML approaches to synthetic chemistry. Subjects of current interest include: synergistic reaction design and discovery, Bayesian optimization of chemical reactions, interpreting hybrid physical-ML models, and translation of knowledge between applications via transfer learning.
