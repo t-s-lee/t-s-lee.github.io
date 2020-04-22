@@ -10,7 +10,7 @@ redirect_from:
 
 I am a scientist with a background in synthetic chemistry, photophysics, quantum mechanical modeling, machine learning, and software development. My interdisciplinary experience was forged from a problem-oriented approach to science. As they say, when someone’s only tool is a hammer, everything looks like a nail. When I need to drive a screw, I go find a drill. Accordingly, on a single research project I may go from simulating light-matter interactions on a HPC cluster, to experimenting with reactive materials in the lab, to engineering laser experiments with an international team at a particle accelerator.
 
-Whether in the lab or on my computer I love breaking down challenging problems, developing useful applications of new technology, and understanding the underlying mechanisms driving complex systems. I am interested in joining an innovative technology driven team which emphasizes a collaborative work environment. 
+Whether in the lab or on my computer I love breaking down challenging problems, developing useful applications of new technology, and understanding the underlying mechanisms driving complex systems. 
 
 Research Interests
 ======
