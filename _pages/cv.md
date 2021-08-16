@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Benjamin J. Shields CV PDF](http://b-shields.github.io/files/Benjamin_Shields_CV_2020.pdf)
+Here is a 1 page overview: [Benjamin J. Shields CV PDF](http://b-shields.github.io/files/Benjamin_Shields_CV_2021.pdf)
 
 Education
 ======
