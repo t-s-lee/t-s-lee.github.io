@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Shields"
 title_separator          : "-"
 name                     : &name "Benjamin Shields"
-description              : &description "Research Scientist, BMS"
+description              : &description "Research Scientist"
 url                      : https://b-shields.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "b-shields/b-shields.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Benjamin J. Shields, Ph.D."
   avatar           : "portfolio.jpg"
-  bio              : "Research Scientist, BMS"
+  bio              : "Research Scientist"
   location         : "Boston, MA"
-  employer         :
+  employer         : "Bristol Myers Squibb"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
