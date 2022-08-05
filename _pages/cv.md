@@ -13,7 +13,11 @@ Here is a 1 page overview: [Tia S. Lee CV PDF](http://b-shields.github.io/files/
 
 Education
 ======
-...
+
+* B.Sc., Mathematics, University of Toronto, 2011
+* B.Sc., Chemical Physics, University of Toronto, 2011
+* M.A., Chemistry, Princeton University, 2015
+* Ph.D., Chemistry, Princeton University, 2019
 
 Publications
 ======
