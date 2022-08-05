@@ -215,8 +215,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: False
+      share: False
       comments: true
   # _publications
   - scope:
