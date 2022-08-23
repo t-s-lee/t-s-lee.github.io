@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a 1 page overview: [Tia S. Lee CV PDF](http://b-shields.github.io/files/Benjamin_Shields_CV_2021.pdf)
+Here is a 1 page overview: [Tia S. Lee CV PDF](http://t-s-lee.github.io/files/TSL-CV-2022.pdf)
 
 Education
 ======
